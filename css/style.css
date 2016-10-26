@@ -115,3 +115,21 @@ footer.page-footer {
 .section1 .section {
   padding: 35px 0px;
 }
+
+.section2 {
+  background: #2d384a;
+  color: #FFF;
+}
+
+.section2 .description {
+  width: calc(100% / 2);
+  display: inline-block;
+}
+
+.section2 img {
+  float: right;
+}
+
+.section2 .section {
+  padding: 35px 0px;
+}
