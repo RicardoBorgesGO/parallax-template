@@ -20,7 +20,7 @@ p {
 }
 
 .parallax-container {
-  min-height: 500px;
+  min-height: 450px;
   /*min-height: 380px;*/
   line-height: 0;
   height: auto;
@@ -67,4 +67,51 @@ footer.page-footer {
   font-size: 0.7em;
   top: -20px;
   position: relative;
+}
+
+#initial-search {
+  text-align: center;
+  position: relative;
+  top: 100px;
+  color: #000;
+}
+
+#initial-search .content-search {
+  width: 955px;
+  background: rgba(255,255,255,.8);
+  padding-bottom: 15px;
+}
+
+#initial-search .content-search .row {
+  text-align: center;
+}
+
+#initial-search .content-search .row .input-field {
+  float: none;
+  margin: 0 auto;
+  display: inline-block;
+  text-align: left;
+}
+
+#initial-search .title-search {
+  font-size: 24px;
+  font-weight: 600;
+  padding: 17px 0px;
+}
+
+#initial-search form {
+  text-align: left;
+}
+
+.section1 {
+ background: #ebeff2 none repeat scroll 0 0; 
+}
+
+.section1 .description {
+  float: right;
+  width: calc(100% / 2);
+}
+
+.section1 .section {
+  padding: 35px 0px;
 }
