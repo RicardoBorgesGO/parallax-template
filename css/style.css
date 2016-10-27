@@ -133,3 +133,66 @@ footer.page-footer {
 .section2 .section {
   padding: 35px 0px;
 }
+
+.teal {
+  background: #f0f0f0 !important;
+}
+
+.teal a {
+  color: #444 !important;
+}
+
+.footer-copyright {
+  background: #2d384a !important;
+}
+
+.header-footer {
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: 600;
+  display: inline;
+  background: #f0f0f0;
+  position: relative;
+  padding-right: 10px;
+}
+
+.page-footer svg {
+  position: absolute;
+  top: 10px;
+}
+
+.content-footer {
+  position: relative;
+}
+
+a.social-facebook {
+  background-image: url("../images/social/Facebook.png");
+  background-size: 21px;
+  background-repeat: no-repeat;
+  padding: 3px 0 3px 24px;
+}
+
+a.social-google {
+  background-image: url("../images/social/Google+.png");
+  background-size: 21px;
+  background-repeat: no-repeat;
+  padding: 3px 0 3px 24px;
+}
+
+a.social-instagram {
+  background-image: url("../images/social/Instgram.png");
+  background-size: 21px;
+  background-repeat: no-repeat;
+  padding: 3px 0 3px 24px;
+}
+
+a.social-twitter {
+  background-image: url("../images/social/Twitter.png");
+  background-size: 21px;
+  background-repeat: no-repeat;
+  padding: 3px 0 3px 24px;
+}
+
+.footer-social ul li {
+  margin: 5px 0px;
+}
